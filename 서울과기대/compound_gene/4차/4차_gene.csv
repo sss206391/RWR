@@ -1,0 +1,1131 @@
+Compound name,Compound,Gene Symbol,ncbitaxid,RelationSign
+piperine,CP00542400,ABCB1,9606,inhibit
+piperine,CP00542400,TRPV1,9606,associate
+piperine,CP00542400,MAOB,9606,inhibit
+piperine,CP00542400,CTSD,9606,inhibit
+piperine,CP00542400,HSD17B10,9606,associate
+piperine,CP00542400,KDM4E,9606,associate
+piperine,CP00542400,RAB9A,9606,associate
+piperine,CP00542400,LOC110245663,1720309,associate
+piperine,CP00542400,ALDH1A1,9606,associate
+piperine,CP00542400,MAPK1,9606,associate
+piperine,CP00542400,NPC1,9606,associate
+piperine,CP00542400,HPGD,9606,associate
+piperine,CP00542400,CYP3A4,9606,associate
+piperine,CP00542400,NR1I2,9606,associate
+piperine,CP00542400,Maob,10116,inhibit
+piperine,CP00542400,Maoa,10090,inhibit
+piperine,CP00542400,Maob,10090,inhibit
+piperine,CP00542400,Rorc,10090,associate
+piperine,CP00542400,Smp_048430,6183,associate
+piperine,CP00542400,ampC,511145,associate
+piperine,CP00542400,NFE2L2,9606,associate
+piperine,CP00542400,ATAD5,9606,associate
+piperine,CP00542400,RXRA,9606,associate
+piperine,CP00542400,POLI,9606,associate
+piperine,CP00542400,NR1H4,9606,associate
+piperine,CP00542400,NR3C1,9606,associate
+piperine,CP00542400,PPARG,9606,associate
+piperine,CP00542400,AHR,9606,associate
+piperine,CP00542400,SMPD1,9606,associate
+piperine,CP00542400,ATXN2,9606,associate
+piperine,CP00542400,BRCA1,9606,associate
+piperine,CP00542400,Nr1i2,10116,associate
+piperine,CP00542400,ALB,9913,associate
+piperine,CP00542400,MAOA,9606,inhibit
+piperine,CP00542400,SLCO1B1,9606,associate
+piperine,CP00542400,SLCO1B3,9606,associate
+piperine,CP00542400,AR,9606,associate
+piperine,CP00542400,PPARD,9606,associate
+piperine,CP00542400,GABRG2,9606,associate
+piperine,CP00542400,PANA_RS06665,706191,inhibit
+piperine,CP00542400,LOC110244330,1720309,inhibit
+piperine,CP00542400,LOC108260043,7998,associate
+piperine,CP00542400,PTGS2,9606,activate
+piperine,CP00542400,JUN,9606,inhibit
+piperine,CP00542400,PAGR1,9606,associate
+piperine,CP00542400,ABCB1,9606,activate
+piperine,CP00542400,CYP3A4,9606,activate
+piperine,CP00542400,REL,9606,inhibit
+piperine,CP00542400,MAPK8,9606,associate
+piperine,CP00542400,NFKBIA,9606,activate
+piperine,CP00542400,FOS,9606,inhibit
+piperine,CP00542400,RELA,9606,inhibit
+piperine,CP00542400,MAOB,9606,associate
+piperine,CP00542400,IL1B,9606,associate
+piperine,CP00542400,NR1I2,9606,activate
+piperine,CP00542400,MAPK3,9606,associate
+piperine,CP00542400,PLCG1,9606,associate
+piperine,CP00542400,SLC9A3,9606,inhibit
+piperine,CP00542400,IL6,9606,associate
+piperine,CP00542400,MMP9,9606,associate
+piperine,CP00542400,MMP2,9606,associate
+piperine,CP00542400,TRPV5,9606,associate
+piperine,CP00542400,GSR,9606,associate
+piperine,CP00542400,LCN1,9606,associate
+piperine,CP00542400,TAC1,9606,associate
+piperine,CP00542400,TNF,9606,associate
+piperine,CP00542400,SPACA5,9606,associate
+piperine,CP00542400,PRKCA,9606,associate
+piperine,CP00542400,UTRN,9606,activate
+piperine,CP00542400,CREB1,9606,inhibit
+piperine,CP00542400,JUN,9606,associate
+piperine,CP00542400,NFKB1,9606,inhibit
+piperine,CP00542400,ALDH3B2,9606,associate
+piperine,CP00542400,UGDH,9606,associate
+piperine,CP00542400,RELA,9606,associate
+piperine,CP00542400,PRSS3,9606,associate
+piperine,CP00542400,ACAT1,9606,associate
+piperine,CP00542400,CYB5A,9606,associate
+piperine,CP00542400,MAOA,9606,associate
+piperine,CP00542400,CD9,9606,associate
+piperine,CP00542400,MMP14,9606,associate
+piperine,CP00542400,CYP1A1,9606,associate
+piperine,CP00542400,CSF2,9606,associate
+piperine,CP00542400,ICAM1,9606,associate
+piperine,CP00542400,PTGS2,9606,associate
+piperine,CP00542400,HMOX1,9606,associate
+piperine,CP00542400,DGAT1,9606,associate
+piperine,CP00542400,CASP3,9606,associate
+piperine,CP00542400,NCOA1,9606,associate
+piperine,CP00542400,TM4SF1,9606,associate
+piperine,CP00542400,NCOA1,9606,activate
+piperine,CP00542400,NFKBIA,9606,associate
+piperine,CP00542400,GALR3,9606,associate
+piperine,CP00542400,TRPA1,9606,associate
+piperine,CP00542400,SLC35A2,9606,associate
+piperine,CP00542400,CYP1B1,9606,associate
+piperine,CP00542400,TRPM5,9606,associate
+piperine,CP00542400,MAPK10,9606,associate
+piperine,CP00542400,ZC3H12D,9606,associate
+piperine,CP00542400,ATF2,9606,inhibit
+piperine,CP00542400,MBD2,9606,associate
+piperine,CP00542400,SOD2,9606,associate
+piperine,CP00542400,TRPV3,9606,associate
+piperine,CP00542400,IRF7,9606,associate
+piperine,CP00542400,RNASEH2A,9606,associate
+piperine,CP00542400,PRKCE,9606,associate
+piperine,CP00542400,SSR1,9606,associate
+piperine,CP00542400,PNLIP,9606,associate
+piperine,CP00542400,CAT,9606,associate
+piperine,CP00542400,ICK,9606,associate
+piperine,CP00542400,TRPM8,9606,associate
+piperine,CP00542400,TRPV2,9606,associate
+piperine,CP00542400,ABCC3,9606,associate
+piperine,CP00542400,KNG1,9606,associate
+piperine,CP00542400,TRPV4,9606,associate
+piperine,CP00542400,GALR2,9606,associate
+piperine,CP00542400,ALOX5,9606,associate
+piperine,CP00542400,CYP2B6,9606,associate
+piperine,CP00542400,PLCE1,9606,associate
+piperine,CP00542400,PIRT,9606,associate
+piperine,CP00542400,PRSS1,9606,associate
+piperine,CP00542400,PRKACA,9606,associate
+piperine,CP00542400,VAT1,9606,associate
+piperine,CP00542400,KCNJ10,9606,associate
+piperine,CP00542400,DECR1,9606,associate
+piperine,CP00542400,DGAT2,9606,associate
+piperine,CP00542400,NFKB1,9606,associate
+piperine,CP00542400,CTSD,9606,associate
+piperine,CP00542400,ABCG2,9606,associate
+piperine,CP00542400,SGPP1,9606,associate
+piperine,CP00542400,PLPPR2,9606,associate
+piperine,CP00542400,NAPSA,9606,associate
+piperine,CP00542400,MMP13,9606,associate
+piperine,CP00542400,ADAM10,9606,associate
+piperine,CP00542400,PRKCQ,9606,associate
+piperine,CP00542400,PRKCG,9606,associate
+piperine,CP00542400,ATF2,9606,associate
+piperine,CP00542400,PLPP1,9606,associate
+piperine,CP00542400,ABCB1,9606,associate
+piperine,CP00542400,ERBB2,9606,associate
+piperine,CP00542400,REN,9606,associate
+piperine,CP00542400,PKN3,9606,associate
+piperine,CP00542400,REL,9606,associate
+piperine,CP00542400,SPICE1,9606,associate
+piperine,CP00542400,KDM1B,9606,associate
+piperine,CP00542400,SGK494,9606,associate
+piperine,CP00542400,CYP7A1,9606,associate
+piperine,CP00542400,GUSB,9606,associate
+piperine,CP00542400,UGT1A1,9606,associate
+piperine,CP00542400,FOS,9606,associate
+piperine,CP00542400,HPSE,9606,associate
+piperine,CP00542400,PGA5,9606,associate
+piperine,CP00542400,SGPP2,9606,associate
+piperine,CP00542400,BACE1,9606,associate
+piperine,CP00542400,PGA3,9606,associate
+piperine,CP00542400,PRKCH,9606,associate
+piperine,CP00542400,PLPP2,9606,associate
+piperine,CP00542400,PRKCD,9606,associate
+piperine,CP00542400,BACE2,9606,associate
+piperine,CP00542400,URAD,9606,associate
+piperine,CP00542400,PKN1,9606,associate
+piperine,CP00542400,XRCC3,9606,associate
+piperine,CP00542400,UGT1A10,9606,associate
+piperine,CP00542400,UGT1A9,9606,associate
+piperine,CP00542400,CTSE,9606,associate
+piperine,CP00542400,BECN1,9606,associate
+piperine,CP00542400,PLA2G4A,9606,associate
+piperine,CP00542400,UTRN,9606,associate
+piperine,CP00542400,NGF,9606,associate
+piperine,CP00542400,PKN2,9606,associate
+piperine,CP00542400,PLPP3,9606,associate
+piperine,CP00542400,DOLPP1,9606,associate
+piperine,CP00542400,PGC,9606,associate
+piperine,CP00542400,UGT1A4,9606,associate
+piperine,CP00542400,UGT1A5,9606,associate
+piperine,CP00542400,UGT1A7,9606,associate
+piperine,CP00542400,UGT1A8,9606,associate
+piperine,CP00542400,PGA4,9606,associate
+piperine,CP00542400,GLDC,9606,associate
+piperine,CP00542400,CTNS,9606,associate
+piperine,CP00542400,GCH1,9606,associate
+piperine,CP00542400,PLPP4,9606,associate
+piperine,CP00542400,KDM1A,9606,associate
+piperine,CP00542400,CREB1,9606,associate
+piperine,CP00542400,PLPP5,9606,associate
+piperine,CP00542400,UGT1A3,9606,associate
+piperine,CP00542400,Maoa,10116,inhibit
+piperine,CP00542400,SMN2,9606,associate
+piperine,CP00542400,BCHE,9796,inhibit
+piperine,CP00542400,TDP1,9606,associate
+piperine,CP00542400,SLCO1B1,9606,inhibit
+piperine,CP00542400,SLCO1B3,9606,inhibit
+piperine,CP00542400,CYP1A1,9606,inhibit
+piperine,CP00542400,GPR183,9606,associate
+piperine,CP00542400,F3,9606,associate
+piperine,CP00542400,HRH3,9606,associate
+piperine,CP00542400,SIGMAR1,9606,associate
+piperine,CP00542400,CNR1,9606,associate
+piperine,CP00542400,SENP7,9606,associate
+piperine,CP00542400,GPR55,9606,associate
+piperine,CP00542400,TGFBR2,9606,associate
+piperine,CP00542400,STK4,9606,associate
+piperine,CP00542400,VCAM1,9606,associate
+piperine,CP00542400,ADCY1,9606,associate
+piperine,CP00542400,ADAMTS4,9606,associate
+piperine,CP00542400,CFTR,9606,associate
+piperine,CP00542400,CYP11B2,9606,associate
+piperine,CP00542400,GGPS1,9606,associate
+piperine,CP00542400,CACNA1B,9606,associate
+piperine,CP00542400,FGF1,9606,associate
+piperine,CP00542400,FCER2,9606,associate
+piperine,CP00542400,FOLR1,9606,associate
+piperine,CP00542400,ALOX5AP,9606,associate
+piperine,CP00542400,PDK2,9606,associate
+piperine,CP00542400,PHOSPHO1,9606,associate
+piperine,CP00542400,TMPRSS11D,9606,associate
+piperine,CP00542400,TMPRSS6,9606,associate
+piperine,CP00542400,ITGA4,9606,associate
+piperine,CP00542400,SSTR3,9606,associate
+piperine,CP00542400,STS,9606,associate
+piperine,CP00542400,SSTR5,9606,associate
+piperine,CP00542400,WNT3A,9606,associate
+piperine,CP00542400,PDE1B,9606,associate
+piperine,CP00542400,PLA2G2A,9606,associate
+piperine,CP00542400,KIF11,9606,associate
+piperine,CP00542400,SERPINE1,9606,associate
+piperine,CP00542400,TXK,9606,associate
+piperine,CP00542400,NAMPT,9606,associate
+piperine,CP00542400,CDK8,9606,associate
+piperine,CP00542400,CHRNA3,9606,associate
+piperine,CP00542400,CYP51A1,9606,associate
+piperine,CP00542400,POLB,9606,associate
+piperine,CP00542400,EP300,9606,associate
+piperine,CP00542400,TPSAB1,9606,associate
+piperine,CP00542400,PIP4K2B,9606,associate
+piperine,CP00542400,DLG4,9606,associate
+piperine,CP00542400,MIF,9606,associate
+piperine,CP00542400,CD74,9606,associate
+piperine,CP00542400,PRF1,9606,associate
+piperine,CP00542400,KDM4C,9606,associate
+piperine,CP00542400,HTR7,9606,associate
+piperine,CP00542400,GSK3B,9606,associate
+piperine,CP00542400,BMP4,9606,associate
+piperine,CP00542400,NEK4,9606,associate
+piperine,CP00542400,CA1,9606,associate
+piperine,CP00542400,GALR1,9606,associate
+piperine,CP00542400,AKT1,9606,associate
+piperine,CP00542400,FES,9606,associate
+piperine,CP00542400,KCNA5,9606,associate
+piperine,CP00542400,LDHB,9606,associate
+piperine,CP00542400,SCARB1,9606,associate
+piperine,CP00542400,MLYCD,9606,associate
+piperine,CP00542400,CDC42BPA,9606,associate
+piperine,CP00542400,S1PR4,9606,associate
+piperine,CP00542400,FPR1,9606,associate
+piperine,CP00542400,CA7,9606,associate
+piperine,CP00542400,HLA-A,9606,associate
+piperine,CP00542400,P2RY14,9606,associate
+piperine,CP00542400,TNFRSF1A,9606,associate
+piperine,CP00542400,TAOK3,9606,associate
+piperine,CP00542400,DCTPP1,9606,associate
+piperine,CP00542400,RAD51,9606,associate
+piperine,CP00542400,F10,9606,associate
+piperine,CP00542400,PDGFRB,9606,associate
+piperine,CP00542400,ITGAL,9606,associate
+piperine,CP00542400,F9,9606,associate
+piperine,CP00542400,THRB,9606,associate
+piperine,CP00542400,WDR5,9606,associate
+piperine,CP00542400,ALOX12,9606,associate
+piperine,CP00542400,CALCA,9606,associate
+piperine,CP00542400,NOTCH3,9606,associate
+piperine,CP00542400,MERTK,9606,associate
+piperine,CP00542400,MAPK7,9606,associate
+piperine,CP00542400,SCN2A,9606,associate
+piperine,CP00542400,FLT3,9606,associate
+piperine,CP00542400,DYRK4,9606,associate
+piperine,CP00542400,CTRC,9606,associate
+piperine,CP00542400,NISCH,9606,associate
+piperanine,CP04483923,TRPV1,9606,associate
+piperanine,CP04483923,ATAD5,9606,associate
+piperanine,CP04483923,TARDBP,9606,associate
+piperanine,CP04483923,LOC108260043,7998,associate
+piperanine,CP04483923,ALOX5,9606,associate
+piperanine,CP04483923,TRPA1,9606,associate
+piperanine,CP04483923,PTGS1,9606,associate
+piperanine,CP04483923,MAOB,9606,associate
+piperanine,CP04483923,TAAR1,9606,associate
+piperanine,CP04483923,SLC6A3,9606,associate
+piperanine,CP04483923,HDAC1,9606,associate
+piperanine,CP04483923,HRH3,9606,associate
+piperanine,CP04483923,CNR1,9606,associate
+piperanine,CP04483923,EDNRB,9606,associate
+piperanine,CP04483923,F2R,9606,associate
+piperanine,CP04483923,CA2,9606,associate
+piperanine,CP04483923,L3MBTL3,9606,associate
+piperanine,CP04483923,PTGS2,9606,associate
+piperanine,CP04483923,HDAC3,9606,associate
+piperanine,CP04483923,PDE5A,9606,associate
+piperanine,CP04483923,CNR2,9606,associate
+piperanine,CP04483923,DPP4,9606,associate
+piperanine,CP04483923,CHRM5,9606,associate
+piperanine,CP04483923,F3,9606,associate
+piperanine,CP04483923,CDC25A,9606,associate
+piperanine,CP04483923,PREP,9606,associate
+piperanine,CP04483923,CHRM2,9606,associate
+piperanine,CP04483923,ALOX15,9606,associate
+piperanine,CP04483923,TBXA2R,9606,associate
+piperanine,CP04483923,TGFBR2,9606,associate
+piperanine,CP04483923,SLCO1B1,9606,associate
+piperanine,CP04483923,STK4,9606,associate
+piperanine,CP04483923,VCAM1,9606,associate
+piperanine,CP04483923,ADCY1,9606,associate
+piperanine,CP04483923,ADAMTS4,9606,associate
+piperanine,CP04483923,CFTR,9606,associate
+piperanine,CP04483923,CYP11B2,9606,associate
+piperanine,CP04483923,GGPS1,9606,associate
+piperanine,CP04483923,CACNA1B,9606,associate
+piperanine,CP04483923,FGF1,9606,associate
+piperanine,CP04483923,FCER2,9606,associate
+piperanine,CP04483923,FOLR1,9606,associate
+piperanine,CP04483923,ALOX5AP,9606,associate
+piperanine,CP04483923,PDK2,9606,associate
+piperanine,CP04483923,PHOSPHO1,9606,associate
+piperanine,CP04483923,TMPRSS11D,9606,associate
+piperanine,CP04483923,TMPRSS6,9606,associate
+piperanine,CP04483923,PRKCE,9606,associate
+piperanine,CP04483923,ITGA4,9606,associate
+piperanine,CP04483923,SSTR3,9606,associate
+piperanine,CP04483923,STS,9606,associate
+piperanine,CP04483923,SSTR5,9606,associate
+piperanine,CP04483923,WNT3A,9606,associate
+piperanine,CP04483923,PDE1B,9606,associate
+piperanine,CP04483923,PLA2G4A,9606,associate
+piperanine,CP04483923,PLA2G2A,9606,associate
+piperanine,CP04483923,RELA,9606,associate
+piperanine,CP04483923,KIF11,9606,associate
+piperanine,CP04483923,SERPINE1,9606,associate
+piperanine,CP04483923,TXK,9606,associate
+piperanine,CP04483923,NAMPT,9606,associate
+piperanine,CP04483923,CDK8,9606,associate
+piperanine,CP04483923,NR1H4,9606,associate
+piperanine,CP04483923,CHRNA3,9606,associate
+piperanine,CP04483923,CYP51A1,9606,associate
+piperanine,CP04483923,PKN2,9606,associate
+piperanine,CP04483923,POLB,9606,associate
+piperanine,CP04483923,EP300,9606,associate
+piperanine,CP04483923,TPSAB1,9606,associate
+piperanine,CP04483923,PIP4K2B,9606,associate
+piperanine,CP04483923,DLG4,9606,associate
+piperanine,CP04483923,MIF,9606,associate
+piperanine,CP04483923,CD74,9606,associate
+piperanine,CP04483923,PRF1,9606,associate
+piperanine,CP04483923,KDM4C,9606,associate
+piperanine,CP04483923,HTR7,9606,associate
+piperanine,CP04483923,GSK3B,9606,associate
+piperanine,CP04483923,BMP4,9606,associate
+piperanine,CP04483923,NEK4,9606,associate
+piperanine,CP04483923,CA1,9606,associate
+piperanine,CP04483923,GALR1,9606,associate
+piperanine,CP04483923,AKT1,9606,associate
+piperanine,CP04483923,FES,9606,associate
+piperanine,CP04483923,PRKCQ,9606,associate
+piperanine,CP04483923,KCNA5,9606,associate
+piperanine,CP04483923,LDHB,9606,associate
+piperanine,CP04483923,SCARB1,9606,associate
+piperanine,CP04483923,MLYCD,9606,associate
+piperanine,CP04483923,CDC42BPA,9606,associate
+piperanine,CP04483923,S1PR4,9606,associate
+piperanine,CP04483923,FPR1,9606,associate
+piperanine,CP04483923,CA7,9606,associate
+piperanine,CP04483923,HLA-A,9606,associate
+piperanine,CP04483923,P2RY14,9606,associate
+piperanine,CP04483923,TNFRSF1A,9606,associate
+piperanine,CP04483923,TAOK3,9606,associate
+piperanine,CP04483923,DCTPP1,9606,associate
+piperanine,CP04483923,RAD51,9606,associate
+piperanine,CP04483923,F10,9606,associate
+piperanine,CP04483923,PDGFRB,9606,associate
+piperanine,CP04483923,ITGAL,9606,associate
+piperanine,CP04483923,F9,9606,associate
+piperanine,CP04483923,TRPM8,9606,associate
+piperanine,CP04483923,THRB,9606,associate
+piperanine,CP04483923,WDR5,9606,associate
+piperlonguminine,CP04483926,TRPV1,9606,associate
+piperlonguminine,CP04483926,ATAD5,9606,associate
+piperlonguminine,CP04483926,HDAC6,9606,associate
+piperlonguminine,CP04483926,GMNN,9606,associate
+piperlonguminine,CP04483926,BRCA1,9606,associate
+piperlonguminine,CP04483926,TARDBP,9606,associate
+piperlonguminine,CP04483926,LOC108260043,7998,associate
+piperlonguminine,CP04483926,BACE1,9606,associate
+piperlonguminine,CP04483926,ADIPOQ,9606,associate
+piperlonguminine,CP04483926,ALOX5,9606,associate
+piperlonguminine,CP04483926,MITF,9606,associate
+piperlonguminine,CP04483926,SLC2A4,9606,associate
+piperlonguminine,CP04483926,APP,9606,associate
+piperlonguminine,CP04483926,IRS1,9606,associate
+piperlonguminine,CP04483926,PTGS1,9606,associate
+piperlonguminine,CP04483926,TYR,9606,associate
+piperlonguminine,CP04483926,PPARG,9606,associate
+piperlonguminine,CP04483926,KALRN,9606,associate
+piperlonguminine,CP04483926,PLEKHG4B,9606,associate
+piperlonguminine,CP04483926,ARHGEF40,9606,associate
+piperlonguminine,CP04483926,MCF2L2,9606,associate
+piperlonguminine,CP04483926,TRIO,9606,associate
+piperlonguminine,CP04483926,PPL,9606,associate
+piperlonguminine,CP04483926,PLEKHG4,9606,associate
+piperlonguminine,CP04483926,SESTD1,9606,associate
+piperlonguminine,CP04483926,MCF2,9606,associate
+piperlonguminine,CP04483926,HDAC1,9606,inhibit
+piperlonguminine,CP04483926,HDAC3,9606,inhibit
+piperlonguminine,CP04483926,HDAC6,9606,inhibit
+piperlonguminine,CP04483926,TDP1,9606,associate
+piperlonguminine,CP04483926,SOAT1,9606,associate
+piperlonguminine,CP04483926,CNR2,9606,associate
+piperlonguminine,CP04483926,EDNRA,9606,associate
+piperlonguminine,CP04483926,CNR1,9606,associate
+piperlonguminine,CP04483926,HDAC3,9606,associate
+piperlonguminine,CP04483926,HDAC1,9606,associate
+piperlonguminine,CP04483926,SLC6A4,9606,associate
+piperlonguminine,CP04483926,PIK3CG,9606,associate
+piperlonguminine,CP04483926,MAOB,9606,associate
+piperlonguminine,CP04483926,IRAK1,9606,associate
+piperlonguminine,CP04483926,EDNRB,9606,associate
+piperlonguminine,CP04483926,CDC25B,9606,associate
+piperlonguminine,CP04483926,PPARD,9606,associate
+piperlonguminine,CP04483926,TRPA1,9606,associate
+piperlonguminine,CP04483926,F3,9606,associate
+piperlonguminine,CP04483926,CLK4,9606,associate
+piperlonguminine,CP04483926,GCKR,9606,associate
+piperlonguminine,CP04483926,TGFBR2,9606,associate
+piperlonguminine,CP04483926,SLCO1B1,9606,associate
+piperlonguminine,CP04483926,STK4,9606,associate
+piperlonguminine,CP04483926,VCAM1,9606,associate
+piperlonguminine,CP04483926,ADCY1,9606,associate
+piperlonguminine,CP04483926,ADAMTS4,9606,associate
+piperlonguminine,CP04483926,CFTR,9606,associate
+piperlonguminine,CP04483926,CYP11B2,9606,associate
+piperlonguminine,CP04483926,GGPS1,9606,associate
+piperlonguminine,CP04483926,CACNA1B,9606,associate
+piperlonguminine,CP04483926,FGF1,9606,associate
+piperlonguminine,CP04483926,FCER2,9606,associate
+piperlonguminine,CP04483926,FOLR1,9606,associate
+piperlonguminine,CP04483926,ALOX5AP,9606,associate
+piperlonguminine,CP04483926,PDK2,9606,associate
+piperlonguminine,CP04483926,PHOSPHO1,9606,associate
+piperlonguminine,CP04483926,TMPRSS11D,9606,associate
+piperlonguminine,CP04483926,TMPRSS6,9606,associate
+piperlonguminine,CP04483926,PRKCE,9606,associate
+piperlonguminine,CP04483926,ITGA4,9606,associate
+piperlonguminine,CP04483926,SSTR3,9606,associate
+piperlonguminine,CP04483926,STS,9606,associate
+piperlonguminine,CP04483926,SSTR5,9606,associate
+piperlonguminine,CP04483926,WNT3A,9606,associate
+piperlonguminine,CP04483926,PDE1B,9606,associate
+piperlonguminine,CP04483926,PLA2G4A,9606,associate
+piperlonguminine,CP04483926,PLA2G2A,9606,associate
+piperlonguminine,CP04483926,RELA,9606,associate
+piperlonguminine,CP04483926,KIF11,9606,associate
+piperlonguminine,CP04483926,SERPINE1,9606,associate
+piperlonguminine,CP04483926,TXK,9606,associate
+piperlonguminine,CP04483926,NAMPT,9606,associate
+piperlonguminine,CP04483926,CDK8,9606,associate
+piperlonguminine,CP04483926,NR1H4,9606,associate
+piperlonguminine,CP04483926,CHRNA3,9606,associate
+piperlonguminine,CP04483926,CYP51A1,9606,associate
+piperlonguminine,CP04483926,PKN2,9606,associate
+piperlonguminine,CP04483926,POLB,9606,associate
+piperlonguminine,CP04483926,EP300,9606,associate
+piperlonguminine,CP04483926,TPSAB1,9606,associate
+piperlonguminine,CP04483926,PIP4K2B,9606,associate
+piperlonguminine,CP04483926,DLG4,9606,associate
+piperlonguminine,CP04483926,MIF,9606,associate
+piperlonguminine,CP04483926,CD74,9606,associate
+piperlonguminine,CP04483926,PRF1,9606,associate
+piperlonguminine,CP04483926,KDM4C,9606,associate
+piperlonguminine,CP04483926,HTR7,9606,associate
+piperlonguminine,CP04483926,GSK3B,9606,associate
+piperlonguminine,CP04483926,BMP4,9606,associate
+piperlonguminine,CP04483926,NEK4,9606,associate
+piperlonguminine,CP04483926,CA1,9606,associate
+piperlonguminine,CP04483926,GALR1,9606,associate
+piperlonguminine,CP04483926,AKT1,9606,associate
+piperlonguminine,CP04483926,FES,9606,associate
+piperlonguminine,CP04483926,PRKCQ,9606,associate
+piperlonguminine,CP04483926,KCNA5,9606,associate
+piperlonguminine,CP04483926,LDHB,9606,associate
+piperlonguminine,CP04483926,SCARB1,9606,associate
+piperlonguminine,CP04483926,MLYCD,9606,associate
+piperlonguminine,CP04483926,CDC42BPA,9606,associate
+piperlonguminine,CP04483926,S1PR4,9606,associate
+piperlonguminine,CP04483926,FPR1,9606,associate
+piperlonguminine,CP04483926,CA7,9606,associate
+piperlonguminine,CP04483926,HLA-A,9606,associate
+piperlonguminine,CP04483926,P2RY14,9606,associate
+piperlonguminine,CP04483926,TNFRSF1A,9606,associate
+piperlonguminine,CP04483926,TAOK3,9606,associate
+piperlonguminine,CP04483926,DCTPP1,9606,associate
+piperlonguminine,CP04483926,RAD51,9606,associate
+piperlonguminine,CP04483926,F10,9606,associate
+piperlonguminine,CP04483926,PDGFRB,9606,associate
+piperlonguminine,CP04483926,ITGAL,9606,associate
+piperlonguminine,CP04483926,F9,9606,associate
+piperlonguminine,CP04483926,TRPM8,9606,associate
+piperlonguminine,CP04483926,THRB,9606,associate
+piperlonguminine,CP04483926,WDR5,9606,associate
+piperlonguminine,CP04483926,ALOX12,9606,associate
+piperlonguminine,CP04483926,CALCA,9606,associate
+piperlonguminine,CP04483926,RXRA,9606,associate
+piperlonguminine,CP04483926,NOTCH3,9606,associate
+retrofractamide B,CP04527627,SOAT1,9606,inhibit
+retrofractamide B,CP04527627,ATAD5,9606,associate
+retrofractamide B,CP04527627,SMAD3,9606,associate
+retrofractamide B,CP04527627,ATXN2,9606,associate
+retrofractamide B,CP04527627,PTH1R,9606,associate
+retrofractamide B,CP04527627,TDP1,9606,associate
+retrofractamide B,CP04527627,SOAT1,9606,associate
+retrofractamide B,CP04527627,TRPV1,9606,associate
+retrofractamide B,CP04527627,CNR2,9606,associate
+retrofractamide B,CP04527627,HDAC3,9606,associate
+retrofractamide B,CP04527627,CNR1,9606,associate
+retrofractamide B,CP04527627,HDAC1,9606,associate
+retrofractamide B,CP04527627,HDAC6,9606,associate
+retrofractamide B,CP04527627,PPARD,9606,associate
+retrofractamide B,CP04527627,EDNRA,9606,associate
+retrofractamide B,CP04527627,HRH2,9606,associate
+retrofractamide B,CP04527627,MAOB,9606,associate
+retrofractamide B,CP04527627,CYP3A4,9606,associate
+retrofractamide B,CP04527627,IRAK1,9606,associate
+retrofractamide B,CP04527627,SLC6A4,9606,associate
+retrofractamide B,CP04527627,OPRM1,9606,associate
+retrofractamide B,CP04527627,PIK3CG,9606,associate
+retrofractamide B,CP04527627,CYP2C9,9606,associate
+retrofractamide B,CP04527627,KDR,9606,associate
+retrofractamide B,CP04527627,PPARA,9606,associate
+retrofractamide B,CP04527627,TRPA1,9606,associate
+retrofractamide B,CP04527627,CLK4,9606,associate
+retrofractamide B,CP04527627,TGFBR2,9606,associate
+retrofractamide B,CP04527627,SLCO1B1,9606,associate
+retrofractamide B,CP04527627,STK4,9606,associate
+retrofractamide B,CP04527627,VCAM1,9606,associate
+retrofractamide B,CP04527627,ADCY1,9606,associate
+retrofractamide B,CP04527627,ADAMTS4,9606,associate
+retrofractamide B,CP04527627,CFTR,9606,associate
+retrofractamide B,CP04527627,CYP11B2,9606,associate
+retrofractamide B,CP04527627,GGPS1,9606,associate
+retrofractamide B,CP04527627,CACNA1B,9606,associate
+retrofractamide B,CP04527627,FGF1,9606,associate
+retrofractamide B,CP04527627,FCER2,9606,associate
+retrofractamide B,CP04527627,FOLR1,9606,associate
+retrofractamide B,CP04527627,ALOX5AP,9606,associate
+retrofractamide B,CP04527627,PDK2,9606,associate
+retrofractamide B,CP04527627,PHOSPHO1,9606,associate
+retrofractamide B,CP04527627,TMPRSS11D,9606,associate
+retrofractamide B,CP04527627,TMPRSS6,9606,associate
+retrofractamide B,CP04527627,PRKCE,9606,associate
+retrofractamide B,CP04527627,ITGA4,9606,associate
+retrofractamide B,CP04527627,SSTR3,9606,associate
+retrofractamide B,CP04527627,STS,9606,associate
+retrofractamide B,CP04527627,SSTR5,9606,associate
+retrofractamide B,CP04527627,WNT3A,9606,associate
+retrofractamide B,CP04527627,PDE1B,9606,associate
+retrofractamide B,CP04527627,PLA2G4A,9606,associate
+retrofractamide B,CP04527627,PLA2G2A,9606,associate
+retrofractamide B,CP04527627,RELA,9606,associate
+retrofractamide B,CP04527627,KIF11,9606,associate
+retrofractamide B,CP04527627,SERPINE1,9606,associate
+retrofractamide B,CP04527627,TXK,9606,associate
+retrofractamide B,CP04527627,NAMPT,9606,associate
+retrofractamide B,CP04527627,CDK8,9606,associate
+retrofractamide B,CP04527627,NR1H4,9606,associate
+retrofractamide B,CP04527627,CHRNA3,9606,associate
+retrofractamide B,CP04527627,CYP51A1,9606,associate
+retrofractamide B,CP04527627,PKN2,9606,associate
+retrofractamide B,CP04527627,POLB,9606,associate
+retrofractamide B,CP04527627,EP300,9606,associate
+retrofractamide B,CP04527627,TPSAB1,9606,associate
+retrofractamide B,CP04527627,PIP4K2B,9606,associate
+retrofractamide B,CP04527627,DLG4,9606,associate
+retrofractamide B,CP04527627,MIF,9606,associate
+retrofractamide B,CP04527627,CD74,9606,associate
+retrofractamide B,CP04527627,PRF1,9606,associate
+retrofractamide B,CP04527627,KDM4C,9606,associate
+retrofractamide B,CP04527627,HTR7,9606,associate
+retrofractamide B,CP04527627,GSK3B,9606,associate
+retrofractamide B,CP04527627,BMP4,9606,associate
+retrofractamide B,CP04527627,NEK4,9606,associate
+retrofractamide B,CP04527627,CA1,9606,associate
+retrofractamide B,CP04527627,GALR1,9606,associate
+retrofractamide B,CP04527627,AKT1,9606,associate
+retrofractamide B,CP04527627,FES,9606,associate
+retrofractamide B,CP04527627,PRKCQ,9606,associate
+retrofractamide B,CP04527627,KCNA5,9606,associate
+retrofractamide B,CP04527627,LDHB,9606,associate
+retrofractamide B,CP04527627,SCARB1,9606,associate
+retrofractamide B,CP04527627,MLYCD,9606,associate
+retrofractamide B,CP04527627,CDC42BPA,9606,associate
+retrofractamide B,CP04527627,S1PR4,9606,associate
+retrofractamide B,CP04527627,FPR1,9606,associate
+retrofractamide B,CP04527627,CA7,9606,associate
+retrofractamide B,CP04527627,HLA-A,9606,associate
+retrofractamide B,CP04527627,P2RY14,9606,associate
+retrofractamide B,CP04527627,TNFRSF1A,9606,associate
+retrofractamide B,CP04527627,TAOK3,9606,associate
+retrofractamide B,CP04527627,DCTPP1,9606,associate
+retrofractamide B,CP04527627,RAD51,9606,associate
+retrofractamide B,CP04527627,F10,9606,associate
+retrofractamide B,CP04527627,PDGFRB,9606,associate
+retrofractamide B,CP04527627,ITGAL,9606,associate
+retrofractamide B,CP04527627,F9,9606,associate
+retrofractamide B,CP04527627,TRPM8,9606,associate
+retrofractamide B,CP04527627,THRB,9606,associate
+retrofractamide B,CP04527627,WDR5,9606,associate
+retrofractamide B,CP04527627,ALOX12,9606,associate
+retrofractamide B,CP04527627,CALCA,9606,associate
+dehydropipernonaline,CP05101212,ICAM1,9606,associate
+dehydropipernonaline,CP05101212,ICAM1,9606,inhibit
+dehydropipernonaline,CP05101212,TRPV1,9606,associate
+dehydropipernonaline,CP05101212,DGAT1,9606,associate
+dehydropipernonaline,CP05101212,TRPA1,9606,associate
+dehydropipernonaline,CP05101212,GLI2,9606,associate
+dehydropipernonaline,CP05101212,PDCD6,9606,associate
+dehydropipernonaline,CP05101212,SEC31A,9606,associate
+dehydropipernonaline,CP05101212,MAOB,9606,associate
+dehydropipernonaline,CP05101212,SOAT1,9606,associate
+dehydropipernonaline,CP05101212,GPR183,9606,associate
+dehydropipernonaline,CP05101212,PIN1,9606,associate
+dehydropipernonaline,CP05101212,SIGMAR1,9606,associate
+dehydropipernonaline,CP05101212,PLA2G1B,9606,associate
+dehydropipernonaline,CP05101212,HDAC3,9606,associate
+dehydropipernonaline,CP05101212,HDAC6,9606,associate
+dehydropipernonaline,CP05101212,F3,9606,associate
+dehydropipernonaline,CP05101212,LDHB,9606,associate
+dehydropipernonaline,CP05101212,PIM1,9606,associate
+dehydropipernonaline,CP05101212,PTGER2,9606,associate
+dehydropipernonaline,CP05101212,DRD3,9606,associate
+dehydropipernonaline,CP05101212,HRH3,9606,associate
+dehydropipernonaline,CP05101212,CYP2J2,9606,associate
+dehydropipernonaline,CP05101212,ADRA1B,9606,associate
+dehydropipernonaline,CP05101212,MCL1,9606,associate
+dehydropipernonaline,CP05101212,CTSS,9606,associate
+dehydropipernonaline,CP05101212,HDAC8,9606,associate
+dehydropipernonaline,CP05101212,HRH4,9606,associate
+dehydropipernonaline,CP05101212,IDO1,9606,associate
+dehydropipernonaline,CP05101212,CNR2,9606,associate
+dehydropipernonaline,CP05101212,PPARA,9606,associate
+dehydropipernonaline,CP05101212,DPP4,9606,associate
+dehydropipernonaline,CP05101212,SLC5A2,9606,associate
+dehydropipernonaline,CP05101212,FABP4,9606,associate
+dehydropipernonaline,CP05101212,NMUR2,9606,associate
+dehydropipernonaline,CP05101212,GPR55,9606,associate
+dehydropipernonaline,CP05101212,CDC25A,9606,associate
+dehydropipernonaline,CP05101212,PREP,9606,associate
+dehydropipernonaline,CP05101212,HTR2B,9606,associate
+dehydropipernonaline,CP05101212,TGFBR2,9606,associate
+dehydropipernonaline,CP05101212,SLCO1B1,9606,associate
+dehydropipernonaline,CP05101212,STK4,9606,associate
+dehydropipernonaline,CP05101212,VCAM1,9606,associate
+dehydropipernonaline,CP05101212,ADCY1,9606,associate
+dehydropipernonaline,CP05101212,ADAMTS4,9606,associate
+dehydropipernonaline,CP05101212,CFTR,9606,associate
+dehydropipernonaline,CP05101212,CYP11B2,9606,associate
+dehydropipernonaline,CP05101212,GGPS1,9606,associate
+dehydropipernonaline,CP05101212,CACNA1B,9606,associate
+dehydropipernonaline,CP05101212,FGF1,9606,associate
+dehydropipernonaline,CP05101212,FCER2,9606,associate
+dehydropipernonaline,CP05101212,FOLR1,9606,associate
+dehydropipernonaline,CP05101212,ALOX5AP,9606,associate
+dehydropipernonaline,CP05101212,PDK2,9606,associate
+dehydropipernonaline,CP05101212,PHOSPHO1,9606,associate
+dehydropipernonaline,CP05101212,TMPRSS11D,9606,associate
+dehydropipernonaline,CP05101212,TMPRSS6,9606,associate
+dehydropipernonaline,CP05101212,PRKCE,9606,associate
+dehydropipernonaline,CP05101212,ITGA4,9606,associate
+dehydropipernonaline,CP05101212,SSTR3,9606,associate
+dehydropipernonaline,CP05101212,STS,9606,associate
+dehydropipernonaline,CP05101212,SSTR5,9606,associate
+dehydropipernonaline,CP05101212,WNT3A,9606,associate
+dehydropipernonaline,CP05101212,PDE1B,9606,associate
+dehydropipernonaline,CP05101212,PLA2G4A,9606,associate
+dehydropipernonaline,CP05101212,PLA2G2A,9606,associate
+dehydropipernonaline,CP05101212,RELA,9606,associate
+dehydropipernonaline,CP05101212,KIF11,9606,associate
+dehydropipernonaline,CP05101212,SERPINE1,9606,associate
+dehydropipernonaline,CP05101212,TXK,9606,associate
+dehydropipernonaline,CP05101212,NAMPT,9606,associate
+dehydropipernonaline,CP05101212,CDK8,9606,associate
+dehydropipernonaline,CP05101212,NR1H4,9606,associate
+dehydropipernonaline,CP05101212,CHRNA3,9606,associate
+dehydropipernonaline,CP05101212,CYP51A1,9606,associate
+dehydropipernonaline,CP05101212,PKN2,9606,associate
+dehydropipernonaline,CP05101212,POLB,9606,associate
+dehydropipernonaline,CP05101212,EP300,9606,associate
+dehydropipernonaline,CP05101212,TPSAB1,9606,associate
+dehydropipernonaline,CP05101212,PIP4K2B,9606,associate
+dehydropipernonaline,CP05101212,DLG4,9606,associate
+dehydropipernonaline,CP05101212,MIF,9606,associate
+dehydropipernonaline,CP05101212,CD74,9606,associate
+dehydropipernonaline,CP05101212,PRF1,9606,associate
+dehydropipernonaline,CP05101212,KDM4C,9606,associate
+dehydropipernonaline,CP05101212,HTR7,9606,associate
+dehydropipernonaline,CP05101212,GSK3B,9606,associate
+dehydropipernonaline,CP05101212,BMP4,9606,associate
+dehydropipernonaline,CP05101212,NEK4,9606,associate
+dehydropipernonaline,CP05101212,CA1,9606,associate
+dehydropipernonaline,CP05101212,GALR1,9606,associate
+dehydropipernonaline,CP05101212,AKT1,9606,associate
+dehydropipernonaline,CP05101212,FES,9606,associate
+dehydropipernonaline,CP05101212,PRKCQ,9606,associate
+dehydropipernonaline,CP05101212,KCNA5,9606,associate
+dehydropipernonaline,CP05101212,SCARB1,9606,associate
+dehydropipernonaline,CP05101212,MLYCD,9606,associate
+dehydropipernonaline,CP05101212,CDC42BPA,9606,associate
+dehydropipernonaline,CP05101212,S1PR4,9606,associate
+dehydropipernonaline,CP05101212,FPR1,9606,associate
+dehydropipernonaline,CP05101212,CA7,9606,associate
+dehydropipernonaline,CP05101212,HLA-A,9606,associate
+dehydropipernonaline,CP05101212,P2RY14,9606,associate
+dehydropipernonaline,CP05101212,TNFRSF1A,9606,associate
+dehydropipernonaline,CP05101212,TAOK3,9606,associate
+dehydropipernonaline,CP05101212,DCTPP1,9606,associate
+Methyl piperate,CP07862213,Maoa,10090,inhibit
+Methyl piperate,CP07862213,Maob,10090,inhibit
+Methyl piperate,CP07862213,Maob,10116,inhibit
+Methyl piperate,CP07862213,KDM1B,9606,associate
+Methyl piperate,CP07862213,MAOA,9606,associate
+Methyl piperate,CP07862213,MAOB,9606,associate
+Methyl piperate,CP07862213,KDM1A,9606,associate
+Methyl piperate,CP07862213,Maoa,10116,inhibit
+Methyl piperate,CP07862213,TRPV1,9606,associate
+Methyl piperate,CP07862213,EDNRB,9606,associate
+Methyl piperate,CP07862213,EDNRA,9606,associate
+Methyl piperate,CP07862213,CNR2,9606,associate
+Methyl piperate,CP07862213,CA1,9606,associate
+Methyl piperate,CP07862213,CTDSP1,9606,associate
+Methyl piperate,CP07862213,STAT1,9606,associate
+Methyl piperate,CP07862213,PTGS1,9606,associate
+Methyl piperate,CP07862213,CA5A,9606,associate
+Methyl piperate,CP07862213,XBP1,9606,associate
+Methyl piperate,CP07862213,NR1H4,9606,associate
+Methyl piperate,CP07862213,APOBEC3G,9606,associate
+Methyl piperate,CP07862213,SENP6,9606,associate
+Methyl piperate,CP07862213,MCL1,9606,associate
+Methyl piperate,CP07862213,HDAC3,9606,associate
+Methyl piperate,CP07862213,CDC25B,9606,associate
+Methyl piperate,CP07862213,ABCB1,9606,associate
+Methyl piperate,CP07862213,CA7,9606,associate
+Methyl piperate,CP07862213,CASP3,9606,associate
+Methyl piperate,CP07862213,CA3,9606,associate
+Methyl piperate,CP07862213,SLC6A2,9606,associate
+Methyl piperate,CP07862213,HDAC1,9606,associate
+Methyl piperate,CP07862213,DUSP3,9606,associate
+Methyl piperate,CP07862213,HCAR2,9606,associate
+Methyl piperate,CP07862213,AKR1B1,9606,associate
+Methyl piperate,CP07862213,MTNR1B,9606,associate
+Methyl piperate,CP07862213,CLK1,9606,associate
+Methyl piperate,CP07862213,CA2,9606,associate
+Methyl piperate,CP07862213,GLO1,9606,associate
+Methyl piperate,CP07862213,PPP1CA,9606,associate
+Methyl piperate,CP07862213,TUBB1,9606,associate
+Methyl piperate,CP07862213,SOAT1,9606,associate
+Methyl piperate,CP07862213,SLC6A4,9606,associate
+Methyl piperate,CP07862213,PTGS2,9606,associate
+Methyl piperate,CP07862213,KLF5,9606,associate
+Methyl piperate,CP07862213,HDAC6,9606,associate
+Methyl piperate,CP07862213,HDAC8,9606,associate
+Methyl piperate,CP07862213,SENP8,9606,associate
+Methyl piperate,CP07862213,CA14,9606,associate
+Methyl piperate,CP07862213,CA6,9606,associate
+Methyl piperate,CP07862213,DNMT1,9606,associate
+Methyl piperate,CP07862213,GPR55,9606,associate
+Methyl piperate,CP07862213,RARA,9606,associate
+Methyl piperate,CP07862213,F3,9606,associate
+Methyl piperate,CP07862213,DYRK1A,9606,associate
+Methyl piperate,CP07862213,ALOX5,9606,associate
+Methyl piperate,CP07862213,CA12,9606,associate
+Methyl piperate,CP07862213,TGFBR2,9606,associate
+Methyl piperate,CP07862213,SLCO1B1,9606,associate
+Methyl piperate,CP07862213,STK4,9606,associate
+Methyl piperate,CP07862213,VCAM1,9606,associate
+Methyl piperate,CP07862213,ADCY1,9606,associate
+Methyl piperate,CP07862213,ADAMTS4,9606,associate
+Methyl piperate,CP07862213,CFTR,9606,associate
+Methyl piperate,CP07862213,CYP11B2,9606,associate
+Methyl piperate,CP07862213,GGPS1,9606,associate
+Methyl piperate,CP07862213,CACNA1B,9606,associate
+Methyl piperate,CP07862213,FGF1,9606,associate
+Methyl piperate,CP07862213,FCER2,9606,associate
+Methyl piperate,CP07862213,FOLR1,9606,associate
+Methyl piperate,CP07862213,ALOX5AP,9606,associate
+Methyl piperate,CP07862213,PDK2,9606,associate
+Methyl piperate,CP07862213,PHOSPHO1,9606,associate
+Methyl piperate,CP07862213,TMPRSS11D,9606,associate
+Methyl piperate,CP07862213,TMPRSS6,9606,associate
+Methyl piperate,CP07862213,PRKCE,9606,associate
+Methyl piperate,CP07862213,ITGA4,9606,associate
+Methyl piperate,CP07862213,SSTR3,9606,associate
+Methyl piperate,CP07862213,STS,9606,associate
+Methyl piperate,CP07862213,SSTR5,9606,associate
+Methyl piperate,CP07862213,WNT3A,9606,associate
+Methyl piperate,CP07862213,PDE1B,9606,associate
+Methyl piperate,CP07862213,PLA2G4A,9606,associate
+Methyl piperate,CP07862213,PLA2G2A,9606,associate
+Methyl piperate,CP07862213,RELA,9606,associate
+Methyl piperate,CP07862213,KIF11,9606,associate
+Methyl piperate,CP07862213,SERPINE1,9606,associate
+Methyl piperate,CP07862213,TXK,9606,associate
+Methyl piperate,CP07862213,NAMPT,9606,associate
+Methyl piperate,CP07862213,CDK8,9606,associate
+Methyl piperate,CP07862213,CHRNA3,9606,associate
+Methyl piperate,CP07862213,CYP51A1,9606,associate
+Methyl piperate,CP07862213,PKN2,9606,associate
+Methyl piperate,CP07862213,POLB,9606,associate
+Methyl piperate,CP07862213,EP300,9606,associate
+Methyl piperate,CP07862213,TPSAB1,9606,associate
+Methyl piperate,CP07862213,PIP4K2B,9606,associate
+Methyl piperate,CP07862213,DLG4,9606,associate
+Methyl piperate,CP07862213,MIF,9606,associate
+Methyl piperate,CP07862213,CD74,9606,associate
+Methyl piperate,CP07862213,PRF1,9606,associate
+Methyl piperate,CP07862213,KDM4C,9606,associate
+Methyl piperate,CP07862213,HTR7,9606,associate
+Methyl piperate,CP07862213,GSK3B,9606,associate
+Methyl piperate,CP07862213,BMP4,9606,associate
+Methyl piperate,CP07862213,NEK4,9606,associate
+pipernonaline,CP07912370,ICAM1,9606,associate
+pipernonaline,CP07912370,ICAM1,9606,inhibit
+pipernonaline,CP07912370,TRPV1,9606,associate
+pipernonaline,CP07912370,MAOB,9606,associate
+pipernonaline,CP07912370,HRH3,9606,associate
+pipernonaline,CP07912370,SOAT1,9606,associate
+pipernonaline,CP07912370,GPR183,9606,associate
+pipernonaline,CP07912370,CNR1,9606,associate
+pipernonaline,CP07912370,PLA2G1B,9606,associate
+pipernonaline,CP07912370,HDAC3,9606,associate
+pipernonaline,CP07912370,HDAC6,9606,associate
+pipernonaline,CP07912370,F3,9606,associate
+pipernonaline,CP07912370,GSK3B,9606,associate
+pipernonaline,CP07912370,CA1,9606,associate
+pipernonaline,CP07912370,CA7,9606,associate
+pipernonaline,CP07912370,PIM1,9606,associate
+pipernonaline,CP07912370,PTGER2,9606,associate
+pipernonaline,CP07912370,CA2,9606,associate
+pipernonaline,CP07912370,DYRK2,9606,associate
+pipernonaline,CP07912370,ADRA1B,9606,associate
+pipernonaline,CP07912370,PPARD,9606,associate
+pipernonaline,CP07912370,CTSS,9606,associate
+pipernonaline,CP07912370,HDAC8,9606,associate
+pipernonaline,CP07912370,HRH4,9606,associate
+pipernonaline,CP07912370,DYRK3,9606,associate
+pipernonaline,CP07912370,KCNH2,9606,associate
+pipernonaline,CP07912370,DPP4,9606,associate
+pipernonaline,CP07912370,TBXAS1,9606,associate
+pipernonaline,CP07912370,BDKRB1,9606,associate
+pipernonaline,CP07912370,GPR55,9606,associate
+pipernonaline,CP07912370,MCOLN3,9606,associate
+pipernonaline,CP07912370,CDC25A,9606,associate
+pipernonaline,CP07912370,PLK4,9606,associate
+pipernonaline,CP07912370,CHRM2,9606,associate
+pipernonaline,CP07912370,CA12,9606,associate
+pipernonaline,CP07912370,TGFBR2,9606,associate
+pipernonaline,CP07912370,SLCO1B1,9606,associate
+pipernonaline,CP07912370,STK4,9606,associate
+pipernonaline,CP07912370,VCAM1,9606,associate
+pipernonaline,CP07912370,ADCY1,9606,associate
+pipernonaline,CP07912370,ADAMTS4,9606,associate
+pipernonaline,CP07912370,CFTR,9606,associate
+pipernonaline,CP07912370,CYP11B2,9606,associate
+pipernonaline,CP07912370,GGPS1,9606,associate
+pipernonaline,CP07912370,CACNA1B,9606,associate
+pipernonaline,CP07912370,FGF1,9606,associate
+pipernonaline,CP07912370,FCER2,9606,associate
+pipernonaline,CP07912370,FOLR1,9606,associate
+pipernonaline,CP07912370,ALOX5AP,9606,associate
+pipernonaline,CP07912370,PDK2,9606,associate
+pipernonaline,CP07912370,PHOSPHO1,9606,associate
+pipernonaline,CP07912370,TMPRSS11D,9606,associate
+pipernonaline,CP07912370,TMPRSS6,9606,associate
+pipernonaline,CP07912370,PRKCE,9606,associate
+pipernonaline,CP07912370,ITGA4,9606,associate
+pipernonaline,CP07912370,SSTR3,9606,associate
+pipernonaline,CP07912370,STS,9606,associate
+pipernonaline,CP07912370,SSTR5,9606,associate
+pipernonaline,CP07912370,WNT3A,9606,associate
+pipernonaline,CP07912370,PDE1B,9606,associate
+pipernonaline,CP07912370,PLA2G4A,9606,associate
+pipernonaline,CP07912370,PLA2G2A,9606,associate
+pipernonaline,CP07912370,RELA,9606,associate
+pipernonaline,CP07912370,KIF11,9606,associate
+pipernonaline,CP07912370,SERPINE1,9606,associate
+pipernonaline,CP07912370,TXK,9606,associate
+pipernonaline,CP07912370,NAMPT,9606,associate
+pipernonaline,CP07912370,CDK8,9606,associate
+pipernonaline,CP07912370,NR1H4,9606,associate
+pipernonaline,CP07912370,CHRNA3,9606,associate
+pipernonaline,CP07912370,CYP51A1,9606,associate
+pipernonaline,CP07912370,PKN2,9606,associate
+pipernonaline,CP07912370,POLB,9606,associate
+pipernonaline,CP07912370,EP300,9606,associate
+pipernonaline,CP07912370,TPSAB1,9606,associate
+pipernonaline,CP07912370,PIP4K2B,9606,associate
+pipernonaline,CP07912370,DLG4,9606,associate
+pipernonaline,CP07912370,MIF,9606,associate
+pipernonaline,CP07912370,CD74,9606,associate
+pipernonaline,CP07912370,PRF1,9606,associate
+pipernonaline,CP07912370,KDM4C,9606,associate
+pipernonaline,CP07912370,HTR7,9606,associate
+pipernonaline,CP07912370,BMP4,9606,associate
+pipernonaline,CP07912370,NEK4,9606,associate
+pipernonaline,CP07912370,GALR1,9606,associate
+pipernonaline,CP07912370,AKT1,9606,associate
+pipernonaline,CP07912370,FES,9606,associate
+pipernonaline,CP07912370,PRKCQ,9606,associate
+pipernonaline,CP07912370,KCNA5,9606,associate
+pipernonaline,CP07912370,LDHB,9606,associate
+pipernonaline,CP07912370,SCARB1,9606,associate
+pipernonaline,CP07912370,MLYCD,9606,associate
+pipernonaline,CP07912370,CDC42BPA,9606,associate
+pipernonaline,CP07912370,S1PR4,9606,associate
+pipernonaline,CP07912370,FPR1,9606,associate
+pipernonaline,CP07912370,HLA-A,9606,associate
+pipernonaline,CP07912370,P2RY14,9606,associate
+pipernonaline,CP07912370,TNFRSF1A,9606,associate
+pipernonaline,CP07912370,TAOK3,9606,associate
+pipernonaline,CP07912370,DCTPP1,9606,associate
+pipernonaline,CP07912370,RAD51,9606,associate
+Retrofractamide A,CP08909589,HDAC1,9606,associate
+Retrofractamide A,CP08909589,HDAC3,9606,associate
+Retrofractamide A,CP08909589,HDAC6,9606,associate
+Retrofractamide A,CP08909589,FAAH,9606,associate
+Retrofractamide A,CP08909589,HDAC1,9606,inhibit
+Retrofractamide A,CP08909589,HDAC3,9606,inhibit
+Retrofractamide A,CP08909589,HDAC6,9606,inhibit
+Retrofractamide A,CP08909589,TRPV1,9606,associate
+Retrofractamide A,CP08909589,SOAT1,9606,associate
+Retrofractamide A,CP08909589,CNR2,9606,associate
+Retrofractamide A,CP08909589,CNR1,9606,associate
+Retrofractamide A,CP08909589,PPARD,9606,associate
+Retrofractamide A,CP08909589,PPARG,9606,associate
+Retrofractamide A,CP08909589,PPARA,9606,associate
+Retrofractamide A,CP08909589,EDNRA,9606,associate
+Retrofractamide A,CP08909589,MAOB,9606,associate
+Retrofractamide A,CP08909589,CYP3A4,9606,associate
+Retrofractamide A,CP08909589,IRAK1,9606,associate
+Retrofractamide A,CP08909589,SLC6A4,9606,associate
+Retrofractamide A,CP08909589,OPRM1,9606,associate
+Retrofractamide A,CP08909589,PIK3CG,9606,associate
+Retrofractamide A,CP08909589,CYP2C9,9606,associate
+Retrofractamide A,CP08909589,KDR,9606,associate
+Retrofractamide A,CP08909589,TRPA1,9606,associate
+Retrofractamide A,CP08909589,CLK4,9606,associate
+Retrofractamide A,CP08909589,TGFBR2,9606,associate
+Retrofractamide A,CP08909589,SLCO1B1,9606,associate
+Retrofractamide A,CP08909589,STK4,9606,associate
+Retrofractamide A,CP08909589,VCAM1,9606,associate
+Retrofractamide A,CP08909589,ADCY1,9606,associate
+Retrofractamide A,CP08909589,ADAMTS4,9606,associate
+Retrofractamide A,CP08909589,CFTR,9606,associate
+Retrofractamide A,CP08909589,CYP11B2,9606,associate
+Retrofractamide A,CP08909589,GGPS1,9606,associate
+Retrofractamide A,CP08909589,CACNA1B,9606,associate
+Retrofractamide A,CP08909589,FGF1,9606,associate
+Retrofractamide A,CP08909589,FCER2,9606,associate
+Retrofractamide A,CP08909589,FOLR1,9606,associate
+Retrofractamide A,CP08909589,ALOX5AP,9606,associate
+Retrofractamide A,CP08909589,PDK2,9606,associate
+Retrofractamide A,CP08909589,PHOSPHO1,9606,associate
+Retrofractamide A,CP08909589,TMPRSS11D,9606,associate
+Retrofractamide A,CP08909589,TMPRSS6,9606,associate
+Retrofractamide A,CP08909589,PRKCE,9606,associate
+Retrofractamide A,CP08909589,ITGA4,9606,associate
+Retrofractamide A,CP08909589,SSTR3,9606,associate
+Retrofractamide A,CP08909589,STS,9606,associate
+Retrofractamide A,CP08909589,SSTR5,9606,associate
+Retrofractamide A,CP08909589,WNT3A,9606,associate
+Retrofractamide A,CP08909589,PDE1B,9606,associate
+Retrofractamide A,CP08909589,PLA2G4A,9606,associate
+Retrofractamide A,CP08909589,PLA2G2A,9606,associate
+Retrofractamide A,CP08909589,RELA,9606,associate
+Retrofractamide A,CP08909589,KIF11,9606,associate
+Retrofractamide A,CP08909589,SERPINE1,9606,associate
+Retrofractamide A,CP08909589,TXK,9606,associate
+Retrofractamide A,CP08909589,NAMPT,9606,associate
+Retrofractamide A,CP08909589,CDK8,9606,associate
+Retrofractamide A,CP08909589,NR1H4,9606,associate
+Retrofractamide A,CP08909589,CHRNA3,9606,associate
+Retrofractamide A,CP08909589,CYP51A1,9606,associate
+Retrofractamide A,CP08909589,PKN2,9606,associate
+Retrofractamide A,CP08909589,POLB,9606,associate
+Retrofractamide A,CP08909589,EP300,9606,associate
+Retrofractamide A,CP08909589,TPSAB1,9606,associate
+Retrofractamide A,CP08909589,PIP4K2B,9606,associate
+Retrofractamide A,CP08909589,DLG4,9606,associate
+Retrofractamide A,CP08909589,MIF,9606,associate
+Retrofractamide A,CP08909589,CD74,9606,associate
+Retrofractamide A,CP08909589,PRF1,9606,associate
+Retrofractamide A,CP08909589,KDM4C,9606,associate
+Retrofractamide A,CP08909589,HTR7,9606,associate
+Retrofractamide A,CP08909589,GSK3B,9606,associate
+Retrofractamide A,CP08909589,BMP4,9606,associate
+Retrofractamide A,CP08909589,NEK4,9606,associate
+Retrofractamide A,CP08909589,CA1,9606,associate
+Retrofractamide A,CP08909589,GALR1,9606,associate
+Retrofractamide A,CP08909589,AKT1,9606,associate
+Retrofractamide A,CP08909589,FES,9606,associate
+Retrofractamide A,CP08909589,PRKCQ,9606,associate
+Retrofractamide A,CP08909589,KCNA5,9606,associate
+Retrofractamide A,CP08909589,LDHB,9606,associate
+Retrofractamide A,CP08909589,SCARB1,9606,associate
+Retrofractamide A,CP08909589,MLYCD,9606,associate
+Retrofractamide A,CP08909589,CDC42BPA,9606,associate
+Retrofractamide A,CP08909589,S1PR4,9606,associate
+Retrofractamide A,CP08909589,FPR1,9606,associate
+Retrofractamide A,CP08909589,CA7,9606,associate
+Retrofractamide A,CP08909589,HLA-A,9606,associate
+Retrofractamide A,CP08909589,P2RY14,9606,associate
+Retrofractamide A,CP08909589,TNFRSF1A,9606,associate
+Retrofractamide A,CP08909589,TAOK3,9606,associate
+Retrofractamide A,CP08909589,DCTPP1,9606,associate
+Retrofractamide A,CP08909589,RAD51,9606,associate
+Retrofractamide A,CP08909589,F10,9606,associate
+Retrofractamide A,CP08909589,PDGFRB,9606,associate
+Retrofractamide A,CP08909589,ITGAL,9606,associate
+Retrofractamide A,CP08909589,F9,9606,associate
+Retrofractamide A,CP08909589,TRPM8,9606,associate
+Retrofractamide A,CP08909589,THRB,9606,associate
+Retrofractamide A,CP08909589,WDR5,9606,associate
+Retrofractamide A,CP08909589,ALOX12,9606,associate
+Retrofractamide A,CP08909589,CALCA,9606,associate
+retrofractamide C,CP18432964,ICAM1,9606,associate
+retrofractamide C,CP18432964,ICAM1,9606,inhibit
+retrofractamide C,CP18432964,SOAT1,9606,associate
+retrofractamide C,CP18432964,TRPV1,9606,associate
+retrofractamide C,CP18432964,CNR2,9606,associate
+retrofractamide C,CP18432964,EDNRA,9606,associate
+retrofractamide C,CP18432964,CNR1,9606,associate
+retrofractamide C,CP18432964,HDAC3,9606,associate
+retrofractamide C,CP18432964,HDAC1,9606,associate
+retrofractamide C,CP18432964,EDNRB,9606,associate
+retrofractamide C,CP18432964,HDAC6,9606,associate
+retrofractamide C,CP18432964,PPARA,9606,associate
+retrofractamide C,CP18432964,TRPA1,9606,associate
+retrofractamide C,CP18432964,XIAP,9606,associate
+retrofractamide C,CP18432964,HRH2,9606,associate
+retrofractamide C,CP18432964,MAOB,9606,associate
+retrofractamide C,CP18432964,CYP3A4,9606,associate
+retrofractamide C,CP18432964,IRAK1,9606,associate
+retrofractamide C,CP18432964,SLC6A3,9606,associate
+retrofractamide C,CP18432964,PPARG,9606,associate
+retrofractamide C,CP18432964,XBP1,9606,associate
+retrofractamide C,CP18432964,PTGES,9606,associate
+retrofractamide C,CP18432964,OPRM1,9606,associate
+retrofractamide C,CP18432964,MCL1,9606,associate
+retrofractamide C,CP18432964,PPARD,9606,associate
+retrofractamide C,CP18432964,PIK3CG,9606,associate
+retrofractamide C,CP18432964,CTSS,9606,associate
+retrofractamide C,CP18432964,KDR,9606,associate
+retrofractamide C,CP18432964,TACR2,9606,associate
+retrofractamide C,CP18432964,CLK4,9606,associate
+retrofractamide C,CP18432964,EPHX2,9606,associate
+retrofractamide C,CP18432964,PDGFRA,9606,associate
+retrofractamide C,CP18432964,TGFBR2,9606,associate
+retrofractamide C,CP18432964,SLCO1B1,9606,associate
+retrofractamide C,CP18432964,STK4,9606,associate
+retrofractamide C,CP18432964,VCAM1,9606,associate
+retrofractamide C,CP18432964,ADCY1,9606,associate
+retrofractamide C,CP18432964,ADAMTS4,9606,associate
+retrofractamide C,CP18432964,CFTR,9606,associate
+retrofractamide C,CP18432964,CYP11B2,9606,associate
+retrofractamide C,CP18432964,GGPS1,9606,associate
+retrofractamide C,CP18432964,CACNA1B,9606,associate
+retrofractamide C,CP18432964,FGF1,9606,associate
+retrofractamide C,CP18432964,FCER2,9606,associate
+retrofractamide C,CP18432964,FOLR1,9606,associate
+retrofractamide C,CP18432964,ALOX5AP,9606,associate
+retrofractamide C,CP18432964,PDK2,9606,associate
+retrofractamide C,CP18432964,PHOSPHO1,9606,associate
+retrofractamide C,CP18432964,TMPRSS11D,9606,associate
+retrofractamide C,CP18432964,TMPRSS6,9606,associate
+retrofractamide C,CP18432964,PRKCE,9606,associate
+retrofractamide C,CP18432964,ITGA4,9606,associate
+retrofractamide C,CP18432964,SSTR3,9606,associate
+retrofractamide C,CP18432964,STS,9606,associate
+retrofractamide C,CP18432964,SSTR5,9606,associate
+retrofractamide C,CP18432964,WNT3A,9606,associate
+retrofractamide C,CP18432964,PDE1B,9606,associate
+retrofractamide C,CP18432964,PLA2G4A,9606,associate
+retrofractamide C,CP18432964,PLA2G2A,9606,associate
+retrofractamide C,CP18432964,RELA,9606,associate
+retrofractamide C,CP18432964,KIF11,9606,associate
+retrofractamide C,CP18432964,SERPINE1,9606,associate
+retrofractamide C,CP18432964,TXK,9606,associate
+retrofractamide C,CP18432964,NAMPT,9606,associate
+retrofractamide C,CP18432964,CDK8,9606,associate
+retrofractamide C,CP18432964,NR1H4,9606,associate
+retrofractamide C,CP18432964,CHRNA3,9606,associate
+retrofractamide C,CP18432964,CYP51A1,9606,associate
+retrofractamide C,CP18432964,PKN2,9606,associate
+retrofractamide C,CP18432964,POLB,9606,associate
+retrofractamide C,CP18432964,EP300,9606,associate
+retrofractamide C,CP18432964,TPSAB1,9606,associate
+retrofractamide C,CP18432964,PIP4K2B,9606,associate
+retrofractamide C,CP18432964,DLG4,9606,associate
+retrofractamide C,CP18432964,MIF,9606,associate
+retrofractamide C,CP18432964,CD74,9606,associate
+retrofractamide C,CP18432964,PRF1,9606,associate
+retrofractamide C,CP18432964,KDM4C,9606,associate
+retrofractamide C,CP18432964,HTR7,9606,associate
+retrofractamide C,CP18432964,GSK3B,9606,associate
+retrofractamide C,CP18432964,BMP4,9606,associate
+retrofractamide C,CP18432964,NEK4,9606,associate
+retrofractamide C,CP18432964,CA1,9606,associate
+retrofractamide C,CP18432964,GALR1,9606,associate
+retrofractamide C,CP18432964,AKT1,9606,associate
+retrofractamide C,CP18432964,FES,9606,associate
+retrofractamide C,CP18432964,PRKCQ,9606,associate
+retrofractamide C,CP18432964,KCNA5,9606,associate
+retrofractamide C,CP18432964,LDHB,9606,associate
+retrofractamide C,CP18432964,SCARB1,9606,associate
+retrofractamide C,CP18432964,MLYCD,9606,associate
+retrofractamide C,CP18432964,CDC42BPA,9606,associate
+retrofractamide C,CP18432964,S1PR4,9606,associate
+retrofractamide C,CP18432964,FPR1,9606,associate
+retrofractamide C,CP18432964,CA7,9606,associate
+retrofractamide C,CP18432964,HLA-A,9606,associate
+retrofractamide C,CP18432964,P2RY14,9606,associate
+retrofractamide C,CP18432964,TNFRSF1A,9606,associate
+retrofractamide C,CP18432964,TAOK3,9606,associate
+retrofractamide C,CP18432964,DCTPP1,9606,associate
+retrofractamide C,CP18432964,RAD51,9606,associate

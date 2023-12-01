@@ -1,0 +1,13 @@
+Compound name,Compoundid,Gene Symbol,ncbitaxid,RelationSign
+columbianetin,CP00073050,KDM4E,9606,associate
+columbianetin,CP00073050,ALDH1A1,9606,associate
+columbianetin,CP00073050,HPGD,9606,associate
+columbianetin,CP00073050,GAA,9606,associate
+columbianetin,CP00073050,ampC,511145,associate
+columbianetin,CP00073050,BACE1,9606,inhibit
+columbianetin,CP00073050,BACE1,9606,associate
+columbianetin,CP00073050,SMPD1,9606,associate
+columbianetin,CP00073050,GNAS,9606,associate
+columbianetin,CP00073050,LOC110237936,1720309,inhibit
+columbianetin,CP00073050,PTGS2,9606,associate
+columbianetin,CP00073050,Txnrd1,10116,associate
